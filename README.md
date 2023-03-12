@@ -1,9 +1,9 @@
 Keywords:
 
-The Pacific War
+*The Pacific War
 
-Long-range Reconnaissance Formation
+*Long-range Reconnaissance Formation
 
-舰队Collection
+*舰队Collection
 
-StarCraftII
+*StarCraftII
